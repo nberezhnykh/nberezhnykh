@@ -1,4 +1,3 @@
-👋 **Привет! Меня зовут Никита**  
 **Java Backend Engineer** | 🔍 **Open to Work**  
 
 ---
